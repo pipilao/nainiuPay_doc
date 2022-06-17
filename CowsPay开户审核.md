@@ -22,7 +22,7 @@
 
 > PS.持有CowsPay商户不易，请好好保管您的账号。
 
-> 结算方式，D+1结算，满300隔天自动申请提现前一天的商户余额。结算费率：4%，每日的USDT价格按当日OKEX交易所价格。
+> 结算方式，D+1结算，满300隔天自动申请提现前一天的商户余额。结算费率：收U的价格+4%。
 
 交流群：[@nainiupay](https://t.me/nainiupay "@nainiupay")
 频道：[@cowpay](https://t.me/cowpay "@cowpay")
